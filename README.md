@@ -5,7 +5,7 @@ I have experience with:
   - Lots of other related equipment (servos, presses, cameras, nutrunners, etc.)
 
 
-I am currently learing: HTML/CSS, PHP, and C#.
+I am currently learing: HTML/CSS, JavaScript, and C#.
 
 
 <!--
