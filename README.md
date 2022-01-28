@@ -1,11 +1,14 @@
 ### I am a Controls Engineer and Project Manager in Metro Detroit.
 I have experience with:
-  - Siemens, Allen Bradley, and various other PLCs
-  - ABB, and Fanuc robots
+  - Siemens, Allen Bradley, and other PLCs
+  - ABB, and Fanuc Robots
   - Lots of other related equipment (servos, presses, cameras, nutrunners, etc.)
 
 
-I am currently learing: HTML/CSS, JavaScript, and C#.
+I am currently learing:
+  - C#
+  - HTML/CSS
+  - JavaScript
 
 
 <!--
