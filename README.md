@@ -1,9 +1,10 @@
-# I am a Controls Engineer and Project Manager in Metro Detroit.
+## I am a Senior Controls Engineer and Project Manager in Metro Detroit.
 
 ### I have experience with:
   - Siemens, Allen Bradley, and other PLCs
   - ABB, and Fanuc Robots
   - Lots of other related equipment (servos, presses, cameras, nutrunners, etc.)
+
 
 <br>
 
