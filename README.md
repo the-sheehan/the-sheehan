@@ -13,7 +13,6 @@ Employer: [enginuity LLC](https://eng-inuity.com)
 ### I am currently learing:
   - C#
   - HTML/CSS
-  - JavaScript
   - HomeAssistant
 <br>
 
