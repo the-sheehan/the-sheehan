@@ -1,5 +1,4 @@
 ## I am a Senior Controls Engineer and Project Manager in Metro Detroit.
-Pronouns: He/Him
 
 Employer: [enginuity LLC](https://eng-inuity.com)
 <br><br>
