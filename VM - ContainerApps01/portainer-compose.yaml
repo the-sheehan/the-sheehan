@@ -1,0 +1,42 @@
+services:
+  portainer:
+    image: portainer/portainer-ce:latest
+    container_name: portainer
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - ./portainer:/data
+    ports:
+      - 9000:9000
+    mac_address: 00:00:02:50:01:52
+    networks:
+      - sheehantebo_LAN
+
+networks:
+  sheehantebo_LAN:
+    driver: macvlan
+    driver_opts:
+      parent: enp1s0
+    ipam:
+      config:
+        - subnet: "10.250.250.0/24"
+          gateway: "10.250.250.1"
+  sheehantebo_DMZ:
+    driver: macvlan
+    driver_opts:
+      parent: enp3s0
+    ipam:
+      config:
+        - subnet: "10.250.251.0/24"
+          gateway: "10.250.251.1"
+  sheehantebo_VPN:
+    driver: macvlan
+    driver_opts:
+      parent: enp5s0
+    ipam:
+      config:
+        - subnet: "10.250.253.0/24"
+          gateway: "10.250.253.1"
