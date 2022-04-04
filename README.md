@@ -8,6 +8,10 @@ Employer: [enginuity LLC](https://eng-inuity.com)
   - ABB, and Fanuc Robots
   - Lots of other related equipment (servos, presses, cameras, nutrunners, etc.)
   - VMWare
+  
+  - Docker
+  - unRAID
+  - pfsense
 <br>
 
 ### I am currently learing:
