@@ -18,6 +18,7 @@ Employer: [enginuity LLC](https://eng-inuity.com)
   - C#
   - HTML/CSS
   - HomeAssistant
+  - Ignition
 <br>
 
 <!--
